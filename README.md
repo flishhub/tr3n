@@ -5,7 +5,7 @@ Tron Light Cycle Clon3
 
 Tr3n Light Cycle is a fast-paced, Tron-inspired arcade game built in Python with Pygame. Designed for modular expansion and creative polish, it features:
 
-- ⚔️ Local multiplayer light cycle battles (coming soon)
+- ⚔️ Local multiplayer light cycle battles 
 - 🧠 AI opponent logic (coming soon)
 - 🎮 Custom menu systems and game states
 - 🧩 Clean, scalable class architecture
