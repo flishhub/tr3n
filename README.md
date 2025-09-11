@@ -16,6 +16,14 @@ Whether you're chasing nostalgia or building your Python portfolio, Tr3n offers 
 > Built by John Flisher. Modular by design. Fun by necessity.
 >
 > ## Version History 📜
+>
+ ### v1.3 – Multiplayer & Menu Expansion
+- Two-player local mode with split keyboard controls - Ready Player 2
+- Independent light cycle instances and trails
+- Collision detection between players and screen boundaries
+- Modular menu system integrated into game loop
+- Modualr Player library added
+
 
 ### v1.0 – Core Foundations 9-4-25
 - 🚀 Basic light cycle movement and collision detection
