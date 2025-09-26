@@ -13,7 +13,7 @@ Tr3n Light Cycle is a fast-paced, Tron-inspired arcade game built in Python with
 
 Whether you're chasing nostalgia or building your Python portfolio, Tr3n offers a sleek foundation for arcade-style experimentation. Contributions, forks, and feature ideas are welcome—this is a living project with plenty of room to grow.
 
-> Built by John Flisher. Modular by design. Fun by necessity.
+> Built by John Flisher. Co-designed by Paul Flisher. Modular by design. Fun by necessity.
 >
 > ## Version History 📜
 >
